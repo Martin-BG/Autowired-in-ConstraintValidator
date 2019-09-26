@@ -1,0 +1,11 @@
+.~*
+
+### IntelliJ IDEA ###
+**/out/
+**/target/
+**/.idea/
+**/.mvn/
+*.iws
+*.iml
+*.ipr
+*.class
