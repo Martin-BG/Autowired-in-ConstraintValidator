@@ -1,5 +1,8 @@
 # Bean Autowire in ConstraintValidator (Spring Boot)
 
+In reply to [Injecting Spring Dependencies into ConstrantValidator](https://stackoverflow.com/questions/58088188/injecting-spring-dependencies-into-constrantvalidator/58126094#58126094) question at Stack Overflow.
+___
+
 Minimum configuration for autowiring in ConstraintValidator to work:
 ```java
 @Configuration
