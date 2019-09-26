@@ -41,6 +41,6 @@ public class DemoTest {
     public void validateDemoObject_withNullName_throws() {
         DemoObject demoObject = new DemoObject(null);
 
-        Set<ConstraintViolation<DemoObject>> constraintViolations = validator.validate(demoObject);
+        validator.validate(demoObject);
     }
 }
